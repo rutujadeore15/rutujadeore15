@@ -19,11 +19,7 @@
 **📊 Data Analyst | SQL | Python | Statistics | PowerBI |  Data Storyteller 📈📉**
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitakhadkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitakhadkar" /> </p>
-
-
 
 
 **💡 Skills:**
