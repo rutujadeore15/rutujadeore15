@@ -19,7 +19,10 @@
 **📊 Data Analyst | SQL | Python | Statistics | PowerBI |  Data Storyteller 📈📉**
 
 
-https://camo.githubusercontent.com/0efb551692c8a7613883f4c6fecd09359d30516a7c0dc115388cadad7bdc475a/68747470733a2f2f63686f6f6c732e696e2f77702d636f6e74656e742f75706c6f6164732f646174612d736369656e63652d322d312e676966
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitakhadkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitakhadkar" /> </p>
+
 
 
 
