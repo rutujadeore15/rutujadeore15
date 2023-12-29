@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abolizagade&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja deore" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujadeore&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja deore" /> </p>
 
 
 <h1 align="center">👋 Hello, I'm Rutuja Deore!</h1>
@@ -19,7 +19,6 @@
 **📊 Data Analyst | SQL | Python | Statistics | PowerBI |  Data Storyteller 📈📉**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitakhadkar&label=Profile%20views&color=0e75b6&style=flat" alt="sumitakhadkar" /> </p>
 
 
 **💡 Skills:**
