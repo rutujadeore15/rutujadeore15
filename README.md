@@ -14,7 +14,7 @@
 
 
 
-🔭 I’m currently Interning as **Data Analyst at KultureHire** .
+🔭 I’m currently Interning as **Data Analyst** at **KultureHire** .
 
 **📊 Data Analyst | SQL | Python | Statistics | PowerBI |  Data Storyteller 📈📉**
 
