@@ -37,4 +37,12 @@
 
 #DataAnalytics #Python #DataViz #PowerBI
 
-[https://lms.nielit.gov.in/pluginfile.php/7190/course/overviewfiles/data-science-2.gif]
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Science GIF</title>
+</head>
+<body>
+    <img src="https://lms.nielit.gov.in/pluginfile.php/7190/course/overviewfiles/data-science-2.gif" alt="Data Science GIF">
+</body>
+</html>
