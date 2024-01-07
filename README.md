@@ -30,11 +30,6 @@
 <html>
 <head>
 
-    <style>
-        .image-container {
-            float: right;
-        }
-    </style>
 </head>
 <body>
     <div class="image-container">
