@@ -20,15 +20,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
+    <title>Data Science GIF</title>
+    <style>
+        .image-container {
+            float: right;
+        }
+    </style>
 </head>
 <body>
-    <img src="https://lms.nielit.gov.in/pluginfile.php/7190/course/overviewfiles/data-science-2.gif" alt="Data Science GIF">
+    <div class="image-container">
+        <img src="https://lms.nielit.gov.in/pluginfile.php/7190/course/overviewfiles/data-science-2.gif" alt="Data Science GIF" style="width: 50%; height: auto;">
+    </div>
 </body>
 </html>
-
-
-
 
 
 
