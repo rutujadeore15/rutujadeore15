@@ -17,7 +17,16 @@
 🔭 I’m currently Interning as **Data Analyst** at **KultureHire** .
 
 **📊 Data Analyst | SQL | Python | Statistics | PowerBI |  Data Storyteller 📈📉**
-<!DOCTYPE html>
+
+**💡 Skills:**
+- SQL
+- Python
+- PowerBI
+- Data Analysis
+- Statistical Modeling
+- Data Visualization
+
+  <!DOCTYPE html>
 <html>
 <head>
     <title>Data Science GIF</title>
@@ -29,28 +38,10 @@
 </head>
 <body>
     <div class="image-container">
-        <img src="https://lms.nielit.gov.in/pluginfile.php/7190/course/overviewfiles/data-science-2.gif" alt="Data Science GIF" style="width: 50%; height: auto;">
+        <img src="https://lms.nielit.gov.in/pluginfile.php/7190/course/overviewfiles/data-science-2.gif" align="right"alt="Data Science GIF" style="width: 50%; height: auto;">
     </div>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-**💡 Skills:**
-- SQL
-- Python
-- PowerBI
-- Data Analysis
-- Statistical Modeling
-- Data Visualization
 
 **🌱 On a mission to turn raw data into actionable intelligence and drive innovation through analytics.**
 
