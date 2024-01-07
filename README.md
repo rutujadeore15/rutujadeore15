@@ -29,7 +29,7 @@
   <!DOCTYPE html>
 <html>
 <head>
-    <title>Data Science GIF</title>
+
     <style>
         .image-container {
             float: right;
